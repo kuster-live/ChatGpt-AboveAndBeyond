@@ -113,9 +113,9 @@ can you add the fields createdOn (text) and createdAt (timestamp)
 
 The code is on github
 
-[https://github.com/kuster-live/centralizedLogging-Seq](https://github.com/kuster-live/centralizedLogging-Seq)
+[https://github.com/kuster-live/ChatGpt-AboveAndBeyond](https://github.com/kuster-live/ChatGpt-AboveAndBeyond)
 
-![qrcode w:250](qr-code.png)
+![qrcode w:250](qrcode.png)
 
 
 <!-- _footer: "Backgroundimage by coolvector on Freepik" -->
